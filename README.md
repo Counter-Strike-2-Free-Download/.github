@@ -1,7 +1,8 @@
 
 # 🌑 *Conquest Dark - A Sleek, Modern Dark Theme for Developers*  
 
-https://i.ytimg.com/vi/zYAvcljuC8M/maxresdefault.jpg
+![image](https://github.com/user-attachments/assets/0d22719c-55dc-4017-9f1e-b055574c8521)
+
 
 **237 years after the Black Planet's arrival, humanity stands on the brink of extinction.**  
 The undead armies have ravaged the kingdoms, the Cosmic Gods have fallen, and the Primordial Ones awaken. Now, only the Dark Rituals offer a sliver of hope against the encroaching darkness.  
